@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Wed Jan 24 15:20:45 EST 2024
+OS\ Name=Linux
+OS\ Version=5.19.0-46-generic
+Username=austinc
+Hostname=austinc-desktop
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=1/24/24, 3\:20 PM
