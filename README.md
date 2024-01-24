@@ -13,3 +13,6 @@
 
 # ESP-IDF Elfs (https://github.com/dynacylabs/esp-idf_elfs)
 Compiled elf's of various esp-idf example projects
+
+# YoSmart FCC Docs
+https://fccid.io/2ATM7

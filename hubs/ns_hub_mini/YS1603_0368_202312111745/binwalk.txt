@@ -1,9 +1,0 @@
-
-DECIMAL       HEXADECIMAL     DESCRIPTION
---------------------------------------------------------------------------------
-53359         0xD06F          Neighborly text, "neighbor entry"
-98720         0x181A0         SHA256 hash constants, little endian
-125467        0x1EA1B         PEM RSA private key
-125528        0x1EA58         PEM EC private key
-125809        0x1EB71         PEM certificate
-
