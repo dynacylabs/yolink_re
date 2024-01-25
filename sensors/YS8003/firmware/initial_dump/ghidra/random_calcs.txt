@@ -1,0 +1,20 @@
+
+
+0x08002043 + (uint)(byte)(0x08002043)[1] * 2
+
+0x080103a3        = 0x080103a3 = "ATE enter \r\n"           = 1   = 1  = 0x08002055
+0x080103a3 + 0xd  = 0x080103b0 = "ATE get ver \r\n"         = 2   = 2  = 0x0800206b
+0x080103a3 + 0x1c = 0x080103bf = "ATE get deveui \r\n"      = 3   = 3  = 0x080020b3
+0x080103a3 + 0x2e = 0x080103d1 = "ATE get device type \r\n" = 4   = 4  = 0x080020f9
+0x080103a3 + 0x45 = 0x080103e8 = "ATE get db \r\n"          = 5   = 5  = 0x0800211d
+0x080103a3 + 0x53 = 0x080103f6 = "ATE clean db \r\n"        = 6   = 6  = 0x08002127
+0x080103a3 + 0x63 = 0x08010406 = "ATE get volt \r\n"        = 7   = 7  = 0x0800212d
+0x080103a3 + 0x73 = 0x08010416 = "ATE rssi dstid = "        = 8   = 8  = 0x08002153
+0x080103a3 + 0x85 = 0x08010428 = "ATE ext \r\n"             = 9   = 9  = 0x0800223b
+0x080103a3 + 0x90 = 0x08010433 = "ATE enter lpc \r\n"       = 0xa = 10 = 0x08002239
+0x080103a3 + 0xa1 = 0x08010444 = "ATE get uuid \r\n"        = 0xb = 11 = 0x08002237
+0x080103a3 + 0xc3 = 0x08010466 = "ATE get appeui \r\n"      = 0xd = 12 = 0x08002235
+0x080103a3 + 0xb1 = 0x08010454 = "ATE get appkey \r\n"      = 0xc = 13 = 0x08002233
+0x080103a3 + 0xd5 = 0x08010478 = "ATE clean appkey \r\n"    = 0xe = 14 = 0x08002231
+
+0xf # Default Return
