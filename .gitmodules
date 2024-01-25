@@ -1,0 +1,32 @@
+[submodule "tools/ghidra/ghidra-xtensa"]
+	path = tools/ghidra/processors/ghidra-xtensa
+	url = git@github.com:dynacylabs/ghidra-xtensa.git
+	branch = master
+[submodule "tools/ghidra/ghidra-esp32-flash-loader"]
+	path = tools/ghidra/extensions/ghidra-esp32-flash-loader
+	url = git@github.com:dynacylabs/ghidra-esp32-flash-loader.git
+	branch = master
+[submodule "tools/ghidra/ghidra"]
+	path = tools/ghidra/ghidra
+	url = git@github.com:dynacylabs/ghidra.git
+	branch = master
+[submodule "tools/ghidra/scripts/ghidra-rizzo"]
+	path = tools/ghidra/scripts/ghidra-rizzo
+	url = git@github.com:dynacylabs/ghidra-rizzo.git
+	branch = main
+[submodule "tools/ghidra/scripts/ghidra-gdt"]
+	path = tools/ghidra/scripts/ghidra-gdt
+	url = git@github.com:dynacylabs/ghidra-gdt.git
+	branch = main
+[submodule "tools/ghidra/scripts/ghidra-svd-loader"]
+	path = tools/ghidra/scripts/ghidra-svd-loader
+	url = https://github.com/dynacylabs/ghidra-svd-loader
+	branch = master
+[submodule "hubs/esp32_files/esp-idf_gdt"]
+	path = hubs/esp32_files/esp-idf_gdt
+	url = git@github.com:dynacylabs/esp-idf_gdt.git
+	branch = main
+[submodule "hubs/esp32_files/esp-idf_rizzo"]
+	path = hubs/esp32_files/esp-idf_rizzo
+	url = git@github.com:dynacylabs/esp-idf_rizzo.git
+	branch = main
