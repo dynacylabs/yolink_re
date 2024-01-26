@@ -1,3 +1,6 @@
+# Cloning
+Clone with `--recurse-submodules`
+
 # Ghidra Plugins for esp32
 - https://github.com/dynacylabs/ghidra-xtensa
 - https://github.com/dynacylabs/ghidra-esp32-flash-loader
