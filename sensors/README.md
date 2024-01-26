@@ -9,6 +9,9 @@
 # YS8003
 - Temperature and Humidity Sensor
 
+# P0706_V1.0
+- YoLink board present in some of their sensors
+
 PIN_NUM     SHAPE   SIGNAL
 0           SQUARE  VCC/GND
 1           CIRCLE  SWDIO
